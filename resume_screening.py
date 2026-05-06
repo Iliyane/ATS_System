@@ -13,9 +13,7 @@ import matplotlib.pyplot as plt
 # First step
 
 # Open pdf file
-#resume_file= open('CV.pdf', 'rb')
-#read_file=PyPDF2.PdfFileReader(resume_file)
-read_file=PyPDF2.PdfFileReader(open("CV_pages.pdf", 'rb'))
+read_file=PyPDF2.PdfFileReader(open("YourFilename.pdf", 'rb'))
 # Get the total number of pages
 count=read_file.numPages
 # Initialize a text empty etring variable
