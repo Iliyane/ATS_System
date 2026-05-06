@@ -2,7 +2,7 @@
 This system reads a PDF-File and extracts unstructured data and based on requirenments creates visualisations score for HR. 
 # ATS Resume Screening System
 
-An Automated Resume Screening (ATS) system that analyzes PDF resumes and scores candidates based on keywords relevant to various professional fields in industrial and systems engineering.
+An Applicant Tracking System (ATS) that analyzes PDF resumes and scores candidates based on keywords relevant to various professional fields in industrial and systems engineering.
 
 ## Description
 
